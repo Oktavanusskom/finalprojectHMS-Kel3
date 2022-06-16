@@ -11,7 +11,7 @@ const NavigationBarComponent = () => {
           <Nav className="me-auto">
             <Nav.Link className="text-white" href="#category">Category</Nav.Link>
             <Nav.Link className="text-white" href="#shipping">Shipping</Nav.Link>
-            <Nav.Link className="text-white" href="#shipping">Our Partners</Nav.Link>
+            <Nav.Link className="text-white" href="#ourpartners">Our Partners</Nav.Link>
           </Nav>
           <Form className="d-flex">
             <Form.Control
