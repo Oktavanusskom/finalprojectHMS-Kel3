@@ -11,9 +11,9 @@ const Product = () => {
         <Row>
           <Col>
             <div className="navbar-product">
-              <Nav className="justify-content-center" activeKey="/home">
+              <Nav className="justify-content-center" activeKey="/">
                 <Nav.Item>
-                  <Nav.Link className="text-white" href="/home">Category 1</Nav.Link>
+                  <Nav.Link className="text-white" href="/category1">Category 1</Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
                   <Nav.Link className="text-white" eventKey="category2">Category 2</Nav.Link>
