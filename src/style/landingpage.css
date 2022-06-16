@@ -1,0 +1,68 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.custom-style {
+  background-color: #09b3b0;
+}
+
+.outline-bg {
+  background-color: #ffffff;
+}
+
+.myBG {
+  height: 100vh;
+  background: rgb(216, 212, 211);
+}
+
+.intro {
+  height: auto;
+  padding: 3%;
+}
+
+.head-intro {
+  margin-top: 200px;
+  margin-left: 50px;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px black;
+  letter-spacing: 4px;
+}
+
+.product {
+  height: auto;
+  background: rgb(216, 212, 211);
+}
+
+.navbar-product {
+  background-color: #09b3b0;
+  width: 100%;
+}
+
+.shipping {
+  height: auto;
+  background: rgb(216, 212, 211);
+}
+
+.productImage {
+  margin: 5px;
+  padding: 5px;
+}
+
+.images {
+  height: 400px;
+}
+
+.detailsShipping {
+  width: 25rem;
+  border: 2px black;
+}
+
+.checkPriceShipping {
+  width: 25rem;
+  border: 2px solid black;
+}
